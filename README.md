@@ -1,6 +1,9 @@
 # Temperature Meter Converter
 ## Description
-The code written above is for a temperature meter converter. It requests the user to enter the temperature that they would like to convert, as well as the metric they're using for the conversion. Upon completion of entry, the user is then requested to enter the metric that they would like to convert to , and once that is done, the code returns the converted temperature with the converted metric.
+For the first Capstone Project in my HyperionDev bootcamp (Level 1). We were tasked with writing the code for a temperature meter converter. How this JavaScript code works is by 
+requesting the user to enter the temperature that they would like to convert, as well as the metric they're using for the conversion. Upon 
+completion of entry, the user is then requested to enter the metric that they would like to convert to , and once that is done, the code returns the converted temperature with the 
+converted metric.
 
 # How to access & use the project
 
